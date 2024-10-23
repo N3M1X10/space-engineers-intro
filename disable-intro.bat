@@ -6,9 +6,17 @@ title Disable Space Engineers intro
 
 ::intro video path
 set intro=%~dp0Content\Videos\KSH.wmv
+set ksh=%~dp0Content\Videos\KSH.wmv
 
 IF EXIST=="%~dp0Content\Videos\-disabled-KSH.wmv" (
 echo ! Интро уже отключено
+
+IF EXIST=="%ksh%" (
+>nul erase /q /s "%ksh%"
+echo.
+echo Удалён лишний двойник видео
+)
+
 goto end
 )
 

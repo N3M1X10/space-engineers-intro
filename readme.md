@@ -16,4 +16,4 @@
 > [!TIP]
 > - `restore-intro.bat` Если нужно включить интро снова
 
-### [Скачать репозиторий](https://github.com/N3M1X10/space-engineers-intro/archive/refs/heads/main.zip)
+### [Скачать репозиторий](https://github.com/N3M1X10/space-engineers-intro/release)

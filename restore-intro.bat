@@ -17,6 +17,14 @@ goto end
 
 
 :run
+
+set ksh=%~dp0Content\Videos\KSH.wmv
+IF EXIST=="%ksh%" (
+>nul erase /q /s "%ksh%"
+echo.
+echo Удалён лишний двойник видео
+)
+
 >nul ren "%intro%" "KSH.wmv"
 echo Интро восстановлено
 echo.
