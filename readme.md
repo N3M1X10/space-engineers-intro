@@ -14,4 +14,4 @@
 2. Запусти `disable-intro.bat`
 
 > [!TIP]
-- `restore-intro.bat` Если нужно включить интро снова
+> - `restore-intro.bat` Если нужно включить интро снова
