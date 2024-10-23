@@ -15,6 +15,7 @@ IF EXIST=="%ksh%" (
 >nul erase /q /s "%ksh%"
 echo.
 echo Удалён лишний двойник видео
+echo.
 )
 
 goto end

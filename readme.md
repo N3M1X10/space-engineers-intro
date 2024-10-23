@@ -1,5 +1,9 @@
 ## Отключить интро в игре Space Engineers
 
+> [!WARNING]
+> Батники написаны и проверены на Windows 10
+> Рекомендую качать батники [только из релизов](https://github.com/N3M1X10/space-engineers-intro/release)
+
 > [!NOTE]
 > Батник переименует видео с интро, из-за чего игра перестанет его показывать
 
@@ -15,5 +19,3 @@
 
 > [!TIP]
 > - `restore-intro.bat` Если нужно включить интро снова
-
-### [Скачать репозиторий](https://github.com/N3M1X10/space-engineers-intro/release)

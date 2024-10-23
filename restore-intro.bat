@@ -6,6 +6,7 @@ title Restore Space Engineers Intro
 
 ::intro video path
 set intro=%~dp0Content\Videos\-disabled-KSH.wmv
+set ksh=%~dp0Content\Videos\KSH.wmv
 
 IF EXIST=="%intro%" (
 goto :run
@@ -18,11 +19,11 @@ goto end
 
 :run
 
-set ksh=%~dp0Content\Videos\KSH.wmv
 IF EXIST=="%ksh%" (
 >nul erase /q /s "%ksh%"
 echo.
 echo Удалён лишний двойник видео
+echo.
 )
 
 >nul ren "%intro%" "KSH.wmv"
