@@ -1,5 +1,7 @@
 ## Отключить интро в игре Space Engineers
 
+- For english guide [look there](https://github.com/N3M1X10/space-engineers-intro/blob/main/readme-en.md)
+
 > [!CAUTION]
 >  Рекомендую качать батники [только из релизов](https://github.com/N3M1X10/space-engineers-intro/release) !
 >
