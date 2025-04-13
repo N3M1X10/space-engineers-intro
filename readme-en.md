@@ -1,10 +1,5 @@
 ## Disable intro in Space Engineers game
 
-> [!CAUTION]
-> I recommend downloading the bat-files [only from releases](https://github.com/N3M1X10/space-engineers-intro/release ) !
->
-> After downloading the archive from the repository, the line endings for them will be changed to UNIX (LF), so they may NOT work correctly
-
 > [!WARNING]
 > The bat-files are written and tested on Windows 10
 
