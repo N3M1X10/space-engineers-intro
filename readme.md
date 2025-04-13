@@ -15,7 +15,7 @@
 - `restore-intro.bat`
 
 >[!tip]
->В библиотеке Steam ПКМ по Space Engineers > Просмотреть локальные файлы
+>В библиотеке Steam ПКМ по Space Engineers > Управление > Просмотреть локальные файлы
 
 2. Запусти `disable-intro.bat`
 
