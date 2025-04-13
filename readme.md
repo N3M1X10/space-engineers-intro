@@ -3,11 +3,6 @@
 > [!TIP]
 > For english guide [look there](https://github.com/N3M1X10/space-engineers-intro/blob/main/readme-en.md)
 
-> [!CAUTION]
->  Рекомендую качать батники [только из релизов](https://github.com/N3M1X10/space-engineers-intro/release) !
->
-> Скачав архив репозитория, для них будет изменено окончание строк на UNIX (LF), из-за чего они могут работать корректно
-
 > [!WARNING]
 > Батники написаны и проверены на Windows 10
 
